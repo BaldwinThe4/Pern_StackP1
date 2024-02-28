@@ -1,0 +1,32 @@
+table, th, td {
+    border:1px solid black;
+  }
+  img{
+    height: 1.2vw;
+    width: 2vw;
+}
+#edit{
+    background: #c7c5c6;
+    height: 1.5vw;
+    color: black;
+}
+#delete{
+    background: #a31f25;
+    height: 1.5vw;
+
+}
+#edid{
+    height: 1.5vw;
+}
+#edidb{
+    height: 1.5vw;
+}
+#edidbd{
+    height: 1.5vw;
+    background-color: rgb(131, 34, 34);
+}
+#ediD{
+    display: flex;
+    justify-content: center;
+    gap: 0.2vw;
+}

@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Head{
+    color: rgb(70, 67, 67);
+    text-align: center;
+}
+.Form{
+    color: rgb(70, 67, 67);
+    display: flex;
+    justify-content: center;
+    gap: 0.2vw;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    gap: 2vw;
+}
+input{
+height: 2vw;
+width: 14vw;
+border-radius: 8px;
+font-size: 1.2vw;
+text-align: center;
+border: '1px solid #ccc';
+}
+button{
+    width: 4vw;
+    border-radius: 8px;
+    color: white;
+    background: rgb(13, 155, 13);
+    box-shadow: none;
+    border: none;
+}
